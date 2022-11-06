@@ -1,4 +1,4 @@
-[![MasterHead](https://d33wubrfki0l68.cloudfront.net/2a88d39eef4e77b10dc845f3781da13687112feb/fe0f2/img/tristan.gif)]()
+[![MasterHead](https://jayamwebsolutions.com/img/website.gif)]()
 <h1 align="center">Hi 👋, I'm Shekh Areful</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
