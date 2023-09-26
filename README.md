@@ -8,7 +8,7 @@
 
 - 🌱  Learning & exploring more on **JavaScript**
 
-- 💬  Ask me about **HTML, CSS, Java**
+- 💬  Ask me about **HTML, CSS, Bootstrap**
 
 - 📫  How to reach me : **shekhareful@gmail.com**
 
