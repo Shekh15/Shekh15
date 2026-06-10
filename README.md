@@ -8,7 +8,7 @@
 
 - 🌱  Learning & exploring more on **Artificial Intelligence**
 
-- 💬  Ask me about **What, How and Why of computers and softwares**
+- 💬  Ask me about **What, How and Why of Computers and Softwares**
 
 - 📫  How to reach me : **shekhareful@gmail.com**
 
