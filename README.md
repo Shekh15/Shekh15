@@ -4,11 +4,11 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=shekh15&label=Profile%20views&color=0e75b6&style=flat" alt="shekh15" /> </p>
 
--   &#128187; I’m currently working on **Angular**
+-   &#128187; I’m currently working on **JavaScript & Angular**
 
-- 🌱  Learning & exploring more on **JavaScript**
+- 🌱  Learning & exploring more on **Artificial Intelligence**
 
-- 💬  Ask me about **HTML, CSS, Bootstrap**
+- 💬  Ask me about **Programming,Fundamentals of CS**
 
 - 📫  How to reach me : **shekhareful@gmail.com**
 
